@@ -1,1 +1,16 @@
-{}
+{
+  "passengers": [
+    {
+      "id": 1,
+      "fullName": "Rob Simpson",
+      "checkedIn": true,
+      "checkInDate": 1490742000000,
+      "children": [
+        {
+          "name": "Hannah",
+          "age": 12
+        }
+      ]
+    }
+  ]
+}
