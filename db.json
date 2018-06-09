@@ -5,12 +5,21 @@
       "fullName": "Rob Simpson",
       "checkedIn": true,
       "checkInDate": 1490742000000,
-      "children": [
-        {
-          "name": "Hannah",
-          "age": 12
-        }
-      ]
+      "baggage": ""
+    },
+    {
+      "id": 2,
+      "fullName": "Jen Simpson",
+      "checkedIn": false,
+      "checkInDate": null,
+      "baggage": ""
+    },
+    {
+      "id": 3,
+      "fullName": "Hannah Simpson",
+      "checkedIn": false,
+      "checkInDate": null,
+      "baggage": ""
     }
   ]
 }
