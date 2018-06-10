@@ -1,11 +1,11 @@
 {
   "passengers": [
     {
+      "fullName": "Jen Simpson",
       "id": 1,
-      "fullName": "Rob Simpson",
       "checkedIn": true,
-      "checkInDate": 1490742000000,
-      "baggage": ""
+      "baggage": "hand-only",
+      "checkInDate": 1490742000000
     },
     {
       "id": 2,
